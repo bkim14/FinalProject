@@ -1,0 +1,18 @@
+package com.scsa.java.util;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapTest {
+	public static void main(String[] args) {
+		Map m=new HashMap();
+		m.put("city", "seoul");
+		m.put("age",20);
+		m.put("¼ºº°", "¿©");
+		System.out.println(m.get("age"));
+		
+		for (Object key:m.keySet()) {
+			System.out.println(key);
+		}
+	}
+}

@@ -1,0 +1,5 @@
+package com.scsa.java.excep;
+
+public class NegativeException {
+
+}

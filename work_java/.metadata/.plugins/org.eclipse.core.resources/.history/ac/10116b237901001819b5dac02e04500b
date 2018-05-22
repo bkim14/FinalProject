@@ -1,0 +1,52 @@
+package com.scsa.java.car4;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CarManager2 implements ICarMgr {
+
+	List<Car> cars=new ArrayList<>(100);
+	
+	@Override
+	public void add(Car c) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Car[] search() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Car search(String num) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Boolean update(String num, int price) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getTotalPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int getTotalSeat() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

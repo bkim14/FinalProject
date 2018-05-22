@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.scsa.java.pms&apos; to &apos;day7/src&apos;&#x0D;&#x0A;- Original project: &apos;day5&apos;&#x0D;&#x0A;- Destination element: &apos;day7/src&apos;&#x0D;&#x0A;- Original element: &apos;day5/src/com.scsa.java.pms&apos;" description="Copy package" destination="=day7/src" element1="/src&lt;com.scsa.java.pms" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1516687673464" version="1.0"/>
+</session>
