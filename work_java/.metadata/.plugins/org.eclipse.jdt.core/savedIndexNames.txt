@@ -7,7 +7,6 @@ INDEX VERSION 1.130+C:\SCSA\Test\work_java\.metadata\.plugins\org.eclipse.jdt.co
 433660574.index
 2161144612.index
 4038756267.index
-1773393425.index
 2650950661.index
 2277357373.index
 2607754891.index
