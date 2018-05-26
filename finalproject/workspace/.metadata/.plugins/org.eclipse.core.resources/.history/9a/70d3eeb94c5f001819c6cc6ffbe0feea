@@ -1,0 +1,13 @@
+package com.gof.model.dao;
+
+import com.gof.model.vo.Employee;
+
+public class EmployeeDAOImpl implements EmployeeDAO {
+
+	@Override
+	public Employee selectEmployee(String rfid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.gof.model.vo;
+
+public class Report {
+	//작업일보번호
+	private int reportNo;
+	//작업일보날짜
+	private String reportDate;
+	//작업일보날씨
+	private String reportWeather;
+	//현재공정률
+	private int ;
+	//금일작업사항
+	private String reportTodayContent;
+	//특기사항
+	private String reportWriter;
+	//작성자
+}

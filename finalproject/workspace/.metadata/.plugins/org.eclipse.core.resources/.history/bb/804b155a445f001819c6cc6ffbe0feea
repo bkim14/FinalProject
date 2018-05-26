@@ -1,0 +1,11 @@
+package com.gof.model.vo;
+
+public class Employee {
+	
+	//사번
+	private int employeeNo;
+
+	//회사 아이디
+	private String companyId;
+
+}

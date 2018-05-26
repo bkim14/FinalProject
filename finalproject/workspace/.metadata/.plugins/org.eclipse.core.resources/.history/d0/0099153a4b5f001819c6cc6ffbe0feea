@@ -1,0 +1,6 @@
+package com.gof.controller;
+
+@Controller
+public class EmployeeController {
+
+}

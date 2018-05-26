@@ -1,0 +1,12 @@
+package com.gof.model.vo;
+
+public class Drawing {
+	private int drawingNo;
+	private String drawingName;
+	private String drawingPath;
+	private String drawingDate;
+	private String drawingRevision;
+	private int drawingStatus;
+	private String teamId;
+	private String inchargeRfid;	
+}

@@ -1,0 +1,11 @@
+package com.gof.model.vo;
+
+public class Team {
+	private String teamId;
+	private int sectionId;
+	private String divisionId;
+	private String teamVenti;
+	private String teamGrande;
+	private String teamTall;
+	private String leaderRfid;
+}

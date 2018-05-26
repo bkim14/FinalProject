@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+  
+<configuration>
+	<typeAliases>
+		<typeAlias type="com.scsa.model.vo.Employee" alias="employee"/>
+	</typeAliases>
+	
+	<!-- 얘를 부르기 전에 User.xml과 Contacts.xml을 미리 만들어 줘야됨. 안만들면 알수없는 에러 뜬다 -->
+	<mappers>
+		<mapper resource="mapper/User.xml"/>
+		<mapper resource="mapper/Contacts.xml"/>
+	</mappers>
+</configuration>

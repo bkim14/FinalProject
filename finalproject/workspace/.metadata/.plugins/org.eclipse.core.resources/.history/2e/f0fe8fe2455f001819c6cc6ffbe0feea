@@ -1,0 +1,8 @@
+package com.gof.model.vo;
+
+public class Chatroom {
+	private int chatroomNo;
+	private int drawingNo;
+	private String chatroomDate;
+	private String chatroomOpener;
+}

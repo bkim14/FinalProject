@@ -1,0 +1,21 @@
+package com.gof.model.vo;
+
+public class Member {
+	
+	//RFID
+	private String rfid;
+
+	//팀아이디
+	private String teamId;
+
+	//사번
+	private int employeeNo;
+	
+	//이름
+	private String memberName;
+
+	//비밀번호
+	private String password;
+	private String permission;
+	private String profile;	
+}

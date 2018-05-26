@@ -1,0 +1,16 @@
+package com.gof.model.vo;
+
+public class Notification {
+	
+	//알림 번호
+	private int notificationNo;
+
+	//도면 번호
+	private int drawingNo;
+
+	//알림 구분
+	private int notificationType;
+
+	//읽음 여부
+	private int notificationRead;
+}

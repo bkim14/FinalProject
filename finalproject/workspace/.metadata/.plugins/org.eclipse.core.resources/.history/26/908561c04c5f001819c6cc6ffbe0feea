@@ -1,0 +1,16 @@
+package com.gof.model.dao;
+
+import org.apache.ibatis.session.SqlSession;
+
+import com.gof.model.vo.Employee;
+
+public class EmployeeDAOImpl implements EmployeeDAO {
+	
+	SqlSession sqlSession;
+	@Override
+	public Employee selectEmployee(String rfid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

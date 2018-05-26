@@ -1,0 +1,5 @@
+package com.gof.model.vo;
+
+public class ImageMsg {
+
+}

@@ -1,0 +1,14 @@
+package com.gof.model.vo;
+
+public class Company {
+	
+	//회사 아이디
+	private String companyId;
+
+	//회사 이름
+	private String companyName;
+
+	//회사 구분
+	private String companyCategory;
+
+}

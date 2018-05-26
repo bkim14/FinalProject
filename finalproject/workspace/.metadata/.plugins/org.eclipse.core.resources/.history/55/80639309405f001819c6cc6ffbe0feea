@@ -1,0 +1,10 @@
+package com.gof.model.vo;
+
+public class Material {
+	private int materialId;
+	private String materialType;
+	private String materialName;
+	private String materialUnit;
+	private int materialTotal;
+	private int materialRest;
+}

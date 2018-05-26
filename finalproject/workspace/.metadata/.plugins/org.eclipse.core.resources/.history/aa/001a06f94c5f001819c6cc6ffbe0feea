@@ -1,0 +1,13 @@
+package com.gof.model.service;
+
+import com.gof.model.vo.Employee;
+
+public class EmployeeServiceImpl implements EmployeeService {
+
+	@Override
+	public Employee findEmployee(String rfid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

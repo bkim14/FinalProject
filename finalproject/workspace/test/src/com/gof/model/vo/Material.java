@@ -1,0 +1,22 @@
+package com.gof.model.vo;
+
+public class Material {
+	
+	//자재아이디
+	private String materialId;
+	
+	//자재구분
+	private String materialCategory;
+	
+	//자재이름
+	private String materialName;
+	
+	//자재단위
+	private String materialUnit;
+	
+	//자재총량
+	private int materialTotal;
+	
+	//자재잔여량
+	private int materialRest;
+}

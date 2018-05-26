@@ -1,0 +1,9 @@
+package com.gof.model.vo;
+
+public class Progress {
+	private int progressNo;
+	private int reportNo;
+	private int materialId;
+	private int progressQuantity;
+	private String progressType;
+}

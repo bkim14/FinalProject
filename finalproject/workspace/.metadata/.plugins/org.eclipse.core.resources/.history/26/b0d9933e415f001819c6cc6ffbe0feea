@@ -1,0 +1,6 @@
+package com.gof.model.vo;
+
+public class Employee {
+	private int employeeNo;
+	private String companyId;
+}

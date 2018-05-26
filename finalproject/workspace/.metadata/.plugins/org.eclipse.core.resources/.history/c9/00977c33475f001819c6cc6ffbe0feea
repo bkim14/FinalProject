@@ -1,0 +1,26 @@
+package com.gof.model.vo;
+
+public class TextMsg {
+	
+	//메세지 번호
+	private int textNo;
+	
+	//채팅방 번호
+	private int chatroomNo;
+
+	//텍스트 발신자
+	private String textSender;
+
+	//텍스트 수신자
+	private String textReceiver;
+
+	//텍스트 내용
+	private String textContent;
+
+	//텍스트 날짜
+	private String textDate;
+
+	//텍스트 읽음 여부
+	private int textRead;
+	
+}

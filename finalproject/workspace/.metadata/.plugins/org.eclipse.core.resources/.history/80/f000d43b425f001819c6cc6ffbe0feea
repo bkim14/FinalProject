@@ -1,0 +1,11 @@
+package com.gof.model.vo;
+
+public class Member {
+	private String rfid;
+	private String teamId;
+	private int employeeNo;
+	private String name;
+	private String password;
+	private String permission;
+	private String profile;	
+}

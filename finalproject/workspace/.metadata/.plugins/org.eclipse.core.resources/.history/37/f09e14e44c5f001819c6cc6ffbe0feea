@@ -1,0 +1,5 @@
+package com.gof.model.service;
+
+public interface EmployeeService {
+	Employee findEmployee(String rfid);
+}

@@ -1,0 +1,17 @@
+package com.gof.model.vo;
+
+public class Chatroom {
+	
+	//채팅방 번호
+	private int chatroomNo;
+
+	//도면 번호
+	private int drawingNo;
+
+	//채팅방 날짜
+	private String chatroomDate;
+
+	//채팅방 개설자
+	private String chatroomOpener;
+
+}

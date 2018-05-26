@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="employee">
+	
+	<resultMap type="Employee" id="employeeResultMap">
+		<id property="rfid" column="rfid"/>
+		<result property="teamId" column="teamId"/>
+		<result property="employeeNo" column="employeeNo"/>
+		<result property="name" column="name"/>
+		<result property="password" column="password"/>
+		<result property="permission" column="permission"/>
+		<result property="profile" column="profile"/>
+		<result property="deviceId" column="deviceId"/>
+	</resultMap>
+	
+	<sql id="basicEmployeeSql">
+		SELECT	*
+		FROM	employee
+	</sql>
+	
+	<select id="selectEmployee" parameterType="String">
+		SELECT 
+	</select>
+</mapper>

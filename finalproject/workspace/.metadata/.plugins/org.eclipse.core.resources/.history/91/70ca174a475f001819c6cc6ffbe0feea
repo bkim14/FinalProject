@@ -1,0 +1,11 @@
+package com.gof.model.vo;
+
+public class VideoMsg {
+	private int videoNo;
+	private int chatroomNo;
+	private String videoSender;
+	private String videoReceiver;
+	private String videoPath;
+	private String videoDate;
+	private int videoRead;
+}

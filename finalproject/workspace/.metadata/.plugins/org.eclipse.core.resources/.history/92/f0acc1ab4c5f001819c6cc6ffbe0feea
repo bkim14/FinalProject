@@ -1,0 +1,6 @@
+package com.gof.model.dao;
+
+public interface EmployeeDAO {
+	
+	Employee selectEmployee(String rfid);
+}

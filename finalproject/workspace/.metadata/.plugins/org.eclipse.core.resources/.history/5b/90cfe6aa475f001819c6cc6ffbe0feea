@@ -1,0 +1,11 @@
+package com.gof.model.vo;
+
+public class ImageMsg {
+	private int imageNo;
+	private int chatroomNo;
+	private String imageSender;
+	private String imageReceiver;
+	private String imagePath;
+	private String imageDate;
+	private int imageRead;
+}

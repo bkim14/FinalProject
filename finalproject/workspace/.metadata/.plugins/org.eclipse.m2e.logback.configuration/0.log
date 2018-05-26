@@ -1,0 +1,346 @@
+2018-05-24 19:22:16,924 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-24 20:50:45,040 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: test:test:0.0.1-SNAPSHOT @ C:\SCSA\finalproject\workspace\test\pom.xml.
+2018-05-24 20:50:45,874 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src
+2018-05-24 20:50:45,874 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /test/src/test/java because it overlaps with /test/src
+2018-05-24 20:50:46,158 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-24 20:50:46,451 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: test:test:0.0.1-SNAPSHOT @ C:\SCSA\finalproject\workspace\test\pom.xml.
+2018-05-24 20:50:46,903 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src
+2018-05-24 20:50:46,903 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /test/src/test/java because it overlaps with /test/src
+2018-05-24 20:50:47,048 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for test
+2018-05-24 20:50:47,061 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-05-24 20:50:47,227 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:50:47,230 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:50:47,231 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:50:47,232 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:50:47,233 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of test
+2018-05-24 20:50:47,234 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for test
+2018-05-24 20:50:47,254 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:55:21,910 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:framework_self4_YoonJeongSang:0.0.1-SNAPSHOT @ C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\pom.xml.
+2018-05-24 20:55:22,577 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:55:22,577 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\src\main\resources
+2018-05-24 20:55:22,578 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:55:22,578 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\src\test\resources
+2018-05-24 20:55:24,524 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:55:24,524 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\src\main\resources
+2018-05-24 20:55:24,525 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:55:24,526 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\src\test\resources
+2018-05-24 20:55:52,492 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:55:52,494 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:55:52,495 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:55:52,496 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:57:21,787 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:57:21,790 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:57:21,791 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:57:21,792 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:57:27,733 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:57:27,735 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:57:27,736 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:57:27,736 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:58:28,204 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:58:28,205 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:58:28,206 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:58:28,206 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:58:44,567 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:58:44,568 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:58:44,569 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 20:58:44,570 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:59:36,168 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: test:test:0.0.1-SNAPSHOT @ C:\SCSA\finalproject\workspace\test\pom.xml.
+2018-05-24 20:59:36,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:59:36,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:59:36,491 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:59:36,492 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 20:59:36,492 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of test
+2018-05-24 20:59:36,492 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for test
+2018-05-24 20:59:36,499 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:59:37,886 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:59:37,886 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 20:59:37,887 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 20:59:37,887 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:00:21,816 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:00:21,816 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:00:21,817 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:00:21,818 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:00:45,197 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:00:45,197 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:00:45,199 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:00:45,199 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:01:06,153 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:01:06,153 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:01:06,156 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:01:06,156 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:01:30,289 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:01:30,289 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:01:30,291 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:01:30,291 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:01:45,688 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:01:45,688 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:01:45,689 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:01:45,689 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:02:12,377 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:12,377 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\src\main\resources
+2018-05-24 21:02:12,379 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:12,379 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\9.framework\workspace\framework_self5_YoonJeongSang\src\test\resources
+2018-05-24 21:02:19,278 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:19,278 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:02:19,279 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:19,279 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:02:22,945 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:22,945 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:02:22,946 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:22,946 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:02:35,140 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:35,140 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:02:35,141 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:35,141 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:02:44,384 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:44,384 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:02:44,385 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:02:44,385 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:03:17,587 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:03:17,587 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:03:17,587 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:03:17,587 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:03:29,426 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:03:29,426 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:03:29,426 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:03:29,426 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:03:52,604 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:03:52,605 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:03:52,606 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:03:52,606 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:04:27,302 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:04:27,302 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:04:27,303 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:04:27,304 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:04:44,524 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:04:44,524 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:04:44,526 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:04:44,526 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:04:51,521 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:04:51,521 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:04:51,522 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:04:51,522 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:05:32,506 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:05:32,507 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:05:32,508 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:05:32,508 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:06:01,484 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:06:01,484 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:06:01,485 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:06:01,485 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:06:15,195 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:06:15,196 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:06:15,196 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:06:15,196 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:06:46,618 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:06:46,618 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:06:46,618 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:06:46,619 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:07:06,072 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:06,073 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:07:06,074 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:06,074 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:07:14,483 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:14,483 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:07:14,484 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:14,485 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:07:31,214 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:31,214 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:07:31,214 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:31,215 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:07:36,463 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:36,463 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:07:36,463 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:07:36,463 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:08:16,037 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:08:16,037 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:08:16,038 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:08:16,038 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:08:22,331 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:08:22,331 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:08:22,331 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:08:22,332 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:08:53,865 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:08:53,865 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:08:53,866 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:08:53,866 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:10:55,642 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:10:55,642 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:10:55,642 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:10:55,643 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:11:16,713 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:16,714 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:11:16,714 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:16,714 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:11:31,790 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:31,790 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:11:31,790 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:31,790 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:11:35,770 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:35,770 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:11:35,770 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:35,771 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:11:54,340 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:54,340 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:11:54,341 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:11:54,341 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:12:49,740 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:12:49,740 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:12:49,740 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:12:49,741 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:13:33,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:13:33,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:13:33,197 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:13:33,197 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:13:35,894 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:13:35,895 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:13:35,895 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:13:35,895 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:13:52,347 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:13:52,347 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:13:52,347 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:13:52,348 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:14:04,758 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:14:04,758 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:14:04,759 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:14:04,759 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:15:13,300 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:15:13,300 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:15:13,301 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:15:13,301 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:17:02,651 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:02,651 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:17:02,652 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:02,652 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:17:27,523 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:27,523 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:17:27,524 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:27,524 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:17:45,726 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:45,727 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:17:45,727 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:45,728 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:17:56,860 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:56,861 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:17:56,861 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:17:56,861 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:18:09,311 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:18:09,311 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:18:09,311 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:18:09,311 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:19:10,101 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:10,102 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:19:10,103 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:10,103 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:19:14,081 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:14,081 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:19:14,081 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:14,082 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:19:27,784 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:27,785 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:19:27,785 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:27,785 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:19:37,859 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:37,859 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:19:37,859 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:37,860 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:19:48,679 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:48,679 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:19:48,680 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:19:48,680 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:20:19,037 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:20:19,037 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:20:19,038 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:20:19,039 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:20:43,657 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:20:43,657 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:20:43,657 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:20:43,658 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:20:48,561 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:20:48,561 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:20:48,562 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:20:48,562 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:21:11,930 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:11,930 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:21:11,931 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:11,931 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:21:23,684 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:23,684 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:21:23,685 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:23,685 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:21:39,614 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:39,614 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:21:39,615 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:39,615 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:21:57,387 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:57,387 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:21:57,387 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:21:57,388 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:22:43,143 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:22:43,143 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:22:43,144 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:22:43,144 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:23:02,107 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:23:02,107 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:23:02,108 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:23:02,109 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:23:49,462 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:23:49,462 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:23:49,463 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:23:49,464 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:24:31,572 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:24:31,572 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:24:31,572 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:24:31,572 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:24:46,868 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:24:46,868 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:24:46,869 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:24:46,869 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:24:54,462 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:24:54,462 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:24:54,463 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:24:54,463 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:25:34,465 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:25:34,465 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:25:34,466 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:25:34,466 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:26:17,029 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:26:17,029 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:26:17,030 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:26:17,030 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:26:40,675 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:26:40,675 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:26:40,676 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:26:40,676 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:28:16,224 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:28:16,224 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:28:16,225 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:28:16,225 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:30:28,180 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:30:28,180 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:30:28,181 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:30:28,182 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:31:45,416 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:31:45,416 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:31:45,417 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:31:45,418 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:33:09,331 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:33:09,331 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:33:09,332 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:33:09,332 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:34:08,503 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:34:08,503 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:34:08,504 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:34:08,504 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:34:46,922 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:34:46,922 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:34:46,923 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:34:46,923 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:35:41,179 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:35:41,179 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:35:41,179 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:35:41,180 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources
+2018-05-24 21:35:51,743 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:35:51,743 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\main\resources
+2018-05-24 21:35:51,744 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-24 21:35:51,744 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SCSA\finalproject\workspace\test\src\test\resources

@@ -1,0 +1,8 @@
+package com.gof.model.vo;
+
+public class Notification {
+	private int notificationNo;
+	private int drawingNo;
+	private int notificationType;
+	private int notificationRead;
+}

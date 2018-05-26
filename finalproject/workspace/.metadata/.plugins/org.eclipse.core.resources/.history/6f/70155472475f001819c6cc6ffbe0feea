@@ -1,0 +1,12 @@
+package com.gof.model.vo;
+
+public class VoiceMsg {
+	private int voiceNo;
+	private int chatroomNo;
+	private String voiceSender;
+	private String voiceReceiver;
+	private String voiceContent;
+	private String voicePath;
+	private String voiceDate;
+	private int voiceRead;
+}

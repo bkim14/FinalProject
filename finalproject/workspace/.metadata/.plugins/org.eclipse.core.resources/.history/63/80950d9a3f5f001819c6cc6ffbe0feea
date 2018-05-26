@@ -1,0 +1,8 @@
+package com.gof.model.vo;
+
+public class Report {
+	private int reportNo;
+	private String reportDate;
+	private String reportWeather;
+	private
+}

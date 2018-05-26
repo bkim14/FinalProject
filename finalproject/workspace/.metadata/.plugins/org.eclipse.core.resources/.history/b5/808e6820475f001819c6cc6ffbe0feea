@@ -1,0 +1,11 @@
+package com.gof.model.vo;
+
+public class TextMsg {
+	private int textNo;
+	private int chatroomNo;
+	private String textSender;
+	private String textReceiver;
+	private String textContent;
+	private String textDate;
+	private int textRead;
+}
